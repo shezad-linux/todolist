@@ -4,7 +4,7 @@ A minimalistic, customisable todo app.
 
 ## Demo
 
-- Demo hosted on Netlify: [https://react-todo-list-9.netlify.app/](https://react-todo-list-9.netlify.app/)
+- Demo hosted on Netlify: https://sweet-speculoos-9d50a8.netlify.app/
 
 ## Features
 
