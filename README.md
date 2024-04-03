@@ -26,10 +26,7 @@ A minimalistic, customisable todo app.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details
 
-## Author
 
-- Instagram - [@ilyasbelaoud](https://www.instagram.com/ilyasbelaoud)
-- Twitter - [@ilyasbelaoud](https://www.twitter.com/ilyasbelaoud)
 
 ## Instructions
 
