@@ -150,7 +150,7 @@ const App = () => {
         <DarkModeToggle /> {/* Render the DarkModeToggle component */}
       </div>
       <div className="footer">
-        <a href='https://github.com/ilyasbelaoud' target='_blank' rel="noopener noreferrer">
+        <a href=' https://github.com/shezad-linux' target='_blank' rel="noopener noreferrer">
           <FaGithub className='github' /> {/* GitHub link with FaGithub icon */}
         </a>
       </div>
